@@ -20,7 +20,7 @@ This project focuses entirely on **SQL-driven analytics**, where all KPIs, metri
 
 ---
 
-## 📈 KPI & Query Insights
+## 🧩 Data Model
 
 <a href="https://www.linkedin.com/posts/moksh-kapoor-618495322_bank-loan-analysis-sql-project-5-activity-7449312978828673025-j0sp?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGVzjQBQzKnpNzkuOZayyyvYW4FkHnrf28" target="_blank">
   <img src="Images/loan%20schema.jpg" alt="SQL KPI Analysis" width="100%">
